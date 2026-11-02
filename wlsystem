@@ -4,7 +4,6 @@ local LocalPlayer = Players.LocalPlayer
 -- Paste user ids below, one per line (commas or spaces also work).
 -- Don't put any other numbers in this block.
 local WHITELIST_RAW = [[
-11417124264
 987654321
 111111111
 ]]
